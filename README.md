@@ -1,16 +1,17 @@
-## Hi there 👋
+# Anay Pawar
 
-<!--
-**4N4Y/4N4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Anay Pawar's GitHub profile.
 
-Here are some ideas to get you started:
+## Currently Learning
+- C++
+- HTML
+- Javascript
+- CSS
+- Unity
+- Blender
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/anaypawar](https://www.linkedin.com/in/anay-pawar-b34308423/))
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaypawar08@gmail.com)
